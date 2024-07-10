@@ -13,7 +13,7 @@ public class ClosestThreeSum_9July {
     *   pass value of integer like 9 0 2 5 4 like this make sure single space between numbers
     *   last param is target like 3
     * */
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter out = new PrintWriter(System.out);
 
